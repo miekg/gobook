@@ -1,3 +1,8 @@
+"Learning Go" is now available on.
+
+See <http://miek.nl/go> and [this github repo](https://github.com/miekg/learninggo).
+
+
 # `Learning Go` - a free PDF for learning the Go language.
 
 The book currently consists of the following chapters:
