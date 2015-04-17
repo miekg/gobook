@@ -1,4 +1,4 @@
-"Learning Go" is now available on.
+"Learning Go" is now available online.
 
 See <http://miek.nl/go> and [this github repo](https://github.com/miekg/learninggo).
 
