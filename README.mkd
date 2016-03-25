@@ -18,7 +18,6 @@ The book currently consists of the following chapters:
 Each chapter concludes with a number of exercises with answers to help you get some hands-on experience. Currently there are more than 30 exercises.
 
 * See http://www.golang.org for the homepage of Go.
-* [Learning Go Project page.] [2]
 
 
 ## Building the book
@@ -100,5 +99,4 @@ make
 Latest prebuilt pdf book [can be downloaded from http://www.miek.nl/downloads/Go/] [1]
 
 
-[1]: http://miek.nl/downloads/Go/  "Download the prebuilt Learning Go book in PDF format"
-[2]: http://archive.miek.nl/projects/learninggo/index.html "http://archive.miek.nl/projects/learninggo/index.html"
+[1]: http://miek.nl/files/go/Learning-Go-latest.pdf  "Download the prebuilt Learning Go book in PDF format"
