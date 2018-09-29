@@ -1,7 +1,11 @@
 "Learning Go" is now available online.
 
-See <http://miek.nl/go> and [this github repo](https://github.com/miekg/learninggo).
+See <https://miek.nl/go> and [this github repo](https://github.com/miekg/learninggo).
 
+Note this book's source has been rewritten in [mmark](https://mmark.nl) and *that* source is available at
+<https://github.com/miekg/learninggo>.
+
+> THIS REPO IS DEPRECATED.
 
 # `Learning Go` - a free PDF for learning the Go language.
 
